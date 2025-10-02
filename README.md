@@ -1,4 +1,4 @@
-# SOS Project (Unity Game)
+# Wind And Stone (Unity Game)
 
 This is a **work-in-progress Unity game project** built with Unity.  
 The repository contains the source files, assets, and scripts required to continue development or test the current state of the game.
@@ -6,7 +6,7 @@ The repository contains the source files, assets, and scripts required to contin
 ---
 
 ## 🎮 About the Project
-The **SOS Project** is currently under development and not in a fully playable state yet.  
+The **Wind And Stone** is currently under development and not in a fully playable state yet.  
 The goal of this repository is to share progress, collaborate on development, and maintain version control.
 
 ---

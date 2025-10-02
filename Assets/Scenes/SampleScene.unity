@@ -1317,15 +1317,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.048174996
+      value: 0.027806608
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.531
+      value: 2.526
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.351
+      value: -0.294
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1660,8 +1660,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c8b8a59d3f174148a4b0f73310e6f7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
   accessType: 1
   isOpen: 0
+  target: {fileID: 0}
 --- !u!61 &1216809148
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1898,15 +1900,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.0235
+      value: 0.008510856
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.718
+      value: 3.757
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.174
+      value: -0.2254
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1968,7 +1970,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.048174996
+      value: 0.02853405
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1976,7 +1978,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.351
+      value: -0.2874
       objectReference: {fileID: 0}
     - target: {fileID: 2005042861928190849, guid: a5e00d282bb266f468e2031b0776eb76, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2495,8 +2497,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c8b8a59d3f174148a4b0f73310e6f7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
   accessType: 0
   isOpen: 0
+  target: {fileID: 0}
 --- !u!61 &1551927022
 BoxCollider2D:
   m_ObjectHideFlags: 0
